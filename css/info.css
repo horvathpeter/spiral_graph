@@ -1,0 +1,32 @@
+/* Customized CSS for jQuery UI: simple info button and box. */
+
+.ui-widget-content {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+/* trim space around info button */
+.ui-button-text-only .ui-button-text {
+    padding: 0px;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 0px solid #000000;
+}
+
+/* translucent background */
+.ui-dialog {
+    opacity: .90;
+    width: 600px !important;
+}
+
+#title {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #ffffff;
+    border-radius: 3px;
+    font: 20px Georgia;
+    padding: 10px;
+}

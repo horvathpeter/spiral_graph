@@ -1,0 +1,13 @@
+Left mouse drag - move the spiral
+
+Right mouse drag - move the camera
+
+Mouse wheel - zoome in/zoom out
+
+Click on any block to highlight the week and see details about the consumption in this point of time.
+
+Right top corner 
+	- Graph - tools for changing the shape and visual mapping of graph
+	- Filter - tools for filtering the graph
+		- highlight only consumption during daylight / night
+		- highligh only consumption greater/less than kW given as user input
